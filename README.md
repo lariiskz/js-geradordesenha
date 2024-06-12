@@ -1,1 +1,1 @@
-# javascrpt-geradordesenha
+# javascript-geradordesenha
